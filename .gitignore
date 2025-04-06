@@ -1,0 +1,11 @@
+# Ignore model and checkpoints
+*.h5
+*.hdf5
+*.ckpt
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Streamlit stuff
+.streamlit/
